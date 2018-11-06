@@ -1,3 +1,3 @@
 ## Hello
 
-[Resume]({{ site.url }}/resume.pdf)
+[Resume]({{site.url}}/resume.pdf)
