@@ -1,4 +1,4 @@
-<!DOCTYPE html>
-<html lang="{{ lang | default: "en-US" }}">
 
+<html lang="{{ lang | default: "en-US" }}">
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQDxRqv8fx6so4SGrpyIcIEG0eyJU7nVbQ_NWuRg3NNaKdqLtMpj1AgGYkR0sIclR4mjgyz7xXha7oj/pub?embedded=true" "width=850" height="1100"></iframe>
 </html>
